@@ -1,0 +1,40 @@
+
+
+
+#sign-up-container{
+
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+#sign-in-button{
+    
+    border-radius: 1vh;
+    border-width: .2vh;
+    border-style: solid;
+    border-color: rgb(196, 196, 196);
+    
+    background-color: rgb(241, 241, 241);
+    
+    width: 20vh;
+    height: 5vh;
+
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.158), 0 6px 20px 0 rgba(0, 0, 0, 0.096);
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 2.5vh;
+    color: rgb(87, 87, 87);
+
+}
+
+#sign-in-button:hover{
+
+    background-color: rgb(226, 226, 226);
+
+}
+
+#sign-in-button:active{
+
+    background-color: rgb(212, 212, 212);
+
+}
